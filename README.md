@@ -1,0 +1,1 @@
+# groq-trial-in-class
